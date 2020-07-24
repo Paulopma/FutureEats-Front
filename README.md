@@ -1,4 +1,4 @@
-# Labeddit
+# futureEats
 <img src='https://github.com/Paulopma/futureEats/blob/master/src/assets/images/Capture.JPG?raw=true'>
 
 ## Descrição
